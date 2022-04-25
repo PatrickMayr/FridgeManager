@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "betjJaOnhnrDA8X35OrxZkMNQzno1TnCxtZ364dfs4FsqDHPWRtStNm1/l3u34qYEDPYS5nCoW+5k0/oeLlDJQ==",
+  "success": true,
+  "projectFilePath": "D:\\00_JKU\\06_Semester\\Kompetenztraining_CE\\FridgeManager\\VS\\MyFridgeManager\\MyFridgeManager\\MyFridgeManager.iOS\\MyFridgeManager.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pam\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pam\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pam\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pam\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
